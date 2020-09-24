@@ -34,7 +34,7 @@ Add events for pause and resume game. You have to stop your game and mute all so
 <p><img src="https://gamemonetize.com/images/construct3/step7.png"  width="650" alt=""></p>
 
 # Known issue
-<p>Getting the error "ReferenceError: window is not defined"</p>
+<p>Getting the error "ReferenceError: window is not defined" -since our JS file in SDK is hosted, please pay attention</p>
 <p><b>Solution:</b> Click to "Timeline Basics" - left menu - section "Advanced" - User worker - select "No"</p>
 <p><img src="https://gamemonetize.com/images/construct3/step1011.png"  width="650" alt=""></p>
 
