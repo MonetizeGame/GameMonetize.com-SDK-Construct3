@@ -8,7 +8,7 @@ This repository contains the GameMonetize.com SDK for HTML5 Construct 3 games. T
 <a href="https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/">Download the plugin</a> or visit <a href="https://www.construct.net/en/make-games/addons/448/gamemonetize-com-sdk">Construct 3 Addons here</a>
 - In your Construct3 project, go to Menu > View > Addon manager</br>
 - Select and upload the .c3addon file you've just downloaded</br>
-- Restart the editor (refresh your browser if you are using the online version)</br>
+- Restart the editor (refresh your browser if you are using the online version https://editor.construct.net)</br>
 - Double click your stage and select GameMonetize SDK</br>
 
 <p><img src="https://gamemonetize.com/images/construct3/step1.png"  width="500" alt=""></p>
@@ -18,24 +18,16 @@ Select the new plugin within Construct 3 by right-clicking on Object Types and i
 You can find these values within your GameMonetize control panel after creating a new game.
 
 # STEP 3:
-Right-click Object types in the 'Projects' tab, select Insert New Object and select 'GameMonetize SDK' in the 'Monetization' category.
+Right-click Object types in the 'Projects' tab, select Insert New Object and select 'GameMonetize SDK' in the 'Monetization' category and insert your Game Id in from your account on game
 <p><img src="https://gamemonetize.com/images/construct3/step2.png"  width="650" alt=""></p>
 
 # STEP 4:
-Click 'GameMonetize' and insert your Game Id in from your account on game
-<p><img src="https://gamemonetize.com/images/construct3/step2.png"  width="650" alt=""></p>
+Add new action or event in your "Event sheet" - click to "Add action" or "Add event"
+<p><img src="https://gamemonetize.com/images/construct3/step3.png"  width="650" alt=""></p>
 
 # STEP 5:
-Double click the GRAY area to create an event to be tied with an advertisement request. You can also tie the following steps to an existing event in your game flow.
-<p><img src="https://gamemonetize.com/images/construct/construct3.png"  width="800" alt=""></p>
-
-# STEP 6:
-Choose 'Init SDK' as an action to tie to an event in your game flow.
-<p><img src="https://gamemonetize.com/images/construct/construct4.png"  width="800" alt=""></p>
-
-# STEP 7:
-You can now call the 'Show Banner' action - whenever and as often as you want. We will make sure to reject any premature calls.
-<p><img src="https://gamemonetize.com/images/construct/construct5.png"  width="800" alt=""></p>
+You can now call the 'Show an Advertisement' action - whenever and as often as you want. We will make sure to reject any premature calls.
+<p><img src="https://gamemonetize.com/images/construct3/step5.png"  width="650" alt=""></p>
 
 # TIP: - Pause / Resume event
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
@@ -43,6 +35,7 @@ Add events for pause and resume game. You have to stop your game and mute all so
 # Known issue
 <p>Getting the error "ReferenceError: window is not defined"</p>
 <p><b>Solution:</b> Click to "Timeline Basics" - left menu - section "Advanced" - User worker - select "No"</p>
+<p><img src="https://gamemonetize.com/images/construct3/step11.png"  width="650" alt=""></p>
 
 # FAQ
 <h2>How to upload a game files?</h2>
