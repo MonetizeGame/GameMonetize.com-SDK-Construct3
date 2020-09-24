@@ -4,8 +4,8 @@
 # GameMonetize.com-SDK Construct 3
 This repository contains the GameMonetize.com SDK for HTML5 Construct 3 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
-For Construct 3, please visit:
-https://github.com/MonetizeGame/GameMonetize.com-SDK-Construct2
+<b>For Construct 3, please visit:</b></br>
+https://github.com/MonetizeGame/GameMonetize.com-SDK-Construct3
 
 # STEP 1:
 <a href="https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/">Download the plugin</a> or visit <a href="https://www.construct.net/en/make-games/addons/448/gamemonetize-com-sdk">Construct 3 Addons here</a>
