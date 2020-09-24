@@ -6,12 +6,12 @@ This repository contains the GameMonetize.com SDK for HTML5 Construct 3 games. T
 
 # STEP 1:
 <a href="https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/">Download the plugin</a></br>
-In your Construct3 project, go to Menu > View > Addon manager</br>
-Select and upload the .c3addon file you've just downloaded</br>
-Restart the editor (refresh your browser if you are using the online version)</br>
-Double click your stage and select GameMonetize SDK</br>
+- In your Construct3 project, go to Menu > View > Addon manager</br>
+- Select and upload the .c3addon file you've just downloaded</br>
+- Restart the editor (refresh your browser if you are using the online version)</br>
+- Double click your stage and select GameMonetize SDK</br>
 
-<p><img src="https://gamemonetize.com/images/construct3/step1.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/construct3/step1.png"  width="500" alt=""></p>
 
 # STEP 2:
 Select the new plugin within Construct 3 by right-clicking on Object Types and insert your Game ID in the properties tab.
