@@ -31,11 +31,12 @@ You can now call the 'Show an Advertisement' action - whenever and as often as y
 
 # TIP: - Pause / Resume event
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
+<p><img src="https://gamemonetize.com/images/construct3/step11.png"  width="650" alt=""></p>
 
 # Known issue
 <p>Getting the error "ReferenceError: window is not defined"</p>
 <p><b>Solution:</b> Click to "Timeline Basics" - left menu - section "Advanced" - User worker - select "No"</p>
-<p><img src="https://gamemonetize.com/images/construct3/step11.png"  width="650" alt=""></p>
+<p><img src="https://gamemonetize.com/images/construct3/step7.png"  width="650" alt=""></p>
 
 # FAQ
 <h2>How to upload a game files?</h2>
