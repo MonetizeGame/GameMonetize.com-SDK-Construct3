@@ -11,6 +11,8 @@ Select and upload the .c3addon file you've just downloaded</br>
 Restart the editor (refresh your browser if you are using the online version)</br>
 Double click your stage and select GameMonetize SDK</br>
 
+<p><img src="https://gamemonetize.com/images/construct3/step1.png"  width="800" alt=""></p>
+
 # STEP 2:
 Select the new plugin within Construct 3 by right-clicking on Object Types and insert your Game ID in the properties tab.
 You can find these values within your GameMonetize control panel after creating a new game.
