@@ -18,7 +18,7 @@ Select the new plugin within Construct 3 by right-clicking on Object Types and i
 You can find these values within your GameMonetize control panel after creating a new game.
 
 # STEP 3:
-Right-click Object types in the 'Projects' tab, select Insert New Object and select 'GameMonetize SDK' in the 'Monetization' category and insert your Game Id in from your account on game
+Right-click Object types in the 'Projects' tab, select Insert New Object and select 'GameMonetize SDK' in the 'Monetization' category and insert your Game ID in from your account on game
 <p><img src="https://gamemonetize.com/images/construct3/step2.png"  width="650" alt=""></p>
 
 # STEP 4:
