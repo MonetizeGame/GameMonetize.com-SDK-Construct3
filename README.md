@@ -32,7 +32,7 @@ Add new action or event in your "Event sheet" - click to "Add action" or "Add ev
 You can now call the 'Show an Advertisement' action - whenever and as often as you want. We will make sure to reject any premature calls.
 <p><img src="https://gamemonetize.com/images/construct3/step5.png"  width="650" alt=""></p>
 
-# TIP: - Pause / Resume event
+# TIP: Pause / Resume event
 Add events for pause and resume game. You have to stop your game and mute all sound & music when you see an advertisement.
 <p><img src="https://gamemonetize.com/images/construct3/step7.png"  width="650" alt=""></p>
 
