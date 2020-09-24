@@ -1,11 +1,11 @@
 <img src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4">  &nbsp;&nbsp;
-<img src="https://gamemonetize.com/images/construct3.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/construct3.png">
+<img src="https://gamemonetize.com/images/construct3-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/construct3-logo.png">
 
 # GameMonetize.com-SDK Construct 3
 This repository contains the GameMonetize.com SDK for HTML5 Construct 3 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
 # STEP 1:
-<a href="https://drive.google.com/file/d/1gXiJzpqlNl71qKwTYT-bh5HHfpDDvtNB/">Download the plugin</a></br>
+<a href="https://drive.google.com/file/d/1qwhm5drPwjzdWMc01qH-NQzTJmINGudG/">Download the plugin</a></br>
 In your Construct3 project, go to Menu > View > Addon manager</br>
 Select and upload the .c3addon file you've just downloaded</br>
 Restart the editor (refresh your browser if you are using the online version)</br>
